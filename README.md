@@ -202,3 +202,9 @@ git checkout -b feature-name
 ### License
 
 This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute it as needed.
+
+##
+
+
+
+You can access the entire article [here](https://firattonak.com/enhancing-api-security-with-middleware-filtering-and-masking-requests-in-net-core)
